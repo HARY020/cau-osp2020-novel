@@ -865,8 +865,10 @@
 우리 집 집사는.... 지금쯤 날 찾고 있을까? 그리고 내 친구 제리는 잘 갔을까? 잭과 어떻게 됐을까?...
 ```
 톰은 울먹이는 목소리로 혼자 중얼거렸다. 
+
 <!-- 자신의 상황을 보고 울컥한 톰 -->
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMjVfMTIy/MDAxNjA2MzA0Mzc2MTIw.5Zm8s2InbLn26GXIkwIoMu__7TUqlZHLtBXE8d8SfrYg.IB2vTFBhWqxsz9yc3yzHRIEv39J4lW_1kU2QEtov8uEg.JPEG.hanariyoung/%EC%86%8D%EC%83%81%ED%95%9C_%ED%86%B0.jpg?type=w966" width="50%" height="50%">
+
 ```
 그냥... 집에 있을걸.. 
 역시 선조들 말 틀린 게 하나도 없다니까. 집 나가면 고양이 고생이야. 
