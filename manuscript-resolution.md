@@ -909,8 +909,10 @@
 ```
 아유 먼지! 너희 여기서 뭐 하는 거야~~
 ```
+<!-- 제리를 붙잡은 집사 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71554908/100554036-722e6c80-32d5-11eb-9ccc-78afe7ca63a0.png" width="50%" height="50%">
 
-![image](https://user-images.githubusercontent.com/71554908/100554036-722e6c80-32d5-11eb-9ccc-78afe7ca63a0.png)
 
 제리를 붙잡은 것은 집사의 손이었다.
 
