@@ -778,6 +778,10 @@
 오늘 뭐 하고 놀까??
 ```
 톰은 행복이 가득 찬 얼굴로 추억을 회상하며 대답했다.
+<!-- 행복가득한 상상을 하는 톰 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMzBfMjM0/MDAxNjA2NzE2NDQxOTE1.McH3JjHI8av_xVyp_1Rj1plbsxnndTid7CA2euDr_50g.bsj2gJpqIAqDHA9Jyh9eFg93UjJFfeEtXu4IieeIrFog.JPEG.hanariyoung/%EA%B8%B0%EB%BB%90%ED%95%98%EB%8A%94_%ED%86%B0.jpg?type=w966" width="50%" height="50%">
+ 
+ 
 ```
 우리 오랜만에 예전처럼 놀아볼까?
 기억나? 그때 우리 진짜 재미있게 놀았었는데..
